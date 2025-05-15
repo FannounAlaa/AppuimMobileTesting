@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-15T11:47:08 EET" name="Default suite" finished-at="2025-05-15T11:47:35 EET" duration-ms="26982">
+    <groups>
+    </groups>
+    <test started-at="2025-05-15T11:47:08 EET" name="Default test" finished-at="2025-05-15T11:47:35 EET" duration-ms="26982">
+      <class name="AppuimMobileTesting.AppuimMobileTesting.AppTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:AppuimMobileTesting.AppuimMobileTesting.AppTest@7d20d0b]" started-at="2025-05-15T11:47:08 EET" name="Setup" finished-at="2025-05-15T11:47:09 EET" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method is-config="true" signature="BeforeEachTest()[pri:0, instance:AppuimMobileTesting.AppuimMobileTesting.AppTest@7d20d0b]" started-at="2025-05-15T11:47:09 EET" name="BeforeEachTest" finished-at="2025-05-15T11:47:17 EET" duration-ms="8603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachTest -->
+        <test-method signature="ClickOnNumbersOnly()[pri:2, instance:AppuimMobileTesting.AppuimMobileTesting.AppTest@7d20d0b]" started-at="2025-05-15T11:47:17 EET" name="ClickOnNumbersOnly" finished-at="2025-05-15T11:47:24 EET" duration-ms="7207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnNumbersOnly -->
+        <test-method is-config="true" signature="BeforeEachTest()[pri:0, instance:AppuimMobileTesting.AppuimMobileTesting.AppTest@7d20d0b]" started-at="2025-05-15T11:47:24 EET" name="BeforeEachTest" finished-at="2025-05-15T11:47:32 EET" duration-ms="7737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEachTest -->
+        <test-method signature="DivideByZero()[pri:3, instance:AppuimMobileTesting.AppuimMobileTesting.AppTest@7d20d0b]" started-at="2025-05-15T11:47:32 EET" name="DivideByZero" finished-at="2025-05-15T11:47:35 EET" duration-ms="3395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DivideByZero -->
+        <test-method is-config="true" signature="DoWork()[pri:0, instance:AppuimMobileTesting.AppuimMobileTesting.AppTest@7d20d0b]" started-at="2025-05-15T11:47:35 EET" name="DoWork" finished-at="2025-05-15T11:47:35 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoWork -->
+      </class> <!-- AppuimMobileTesting.AppuimMobileTesting.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
